@@ -4,7 +4,7 @@ DirTree is a simple tool to get the directory tree structure of a folder (like t
 
 ![DirTree Screenshot](DirTreeScreenshot.png "DirTree Usage Example")  
 
-### Prerequisites
+## Prerequisites
 
 - Windows OS
 - .NET 8.0
@@ -17,7 +17,7 @@ DirTree is a simple tool to get the directory tree structure of a folder (like t
 
 ## License
 
-DirTree was created by C.D. Mendoza. This work is licensed under the GNU General Public License v3.0. See [LICENSE](LICENSE.txt) for details.
+DirTree was created by C.D. Mendoza. This work is licensed under the GNU General Public License v3.0. See [LICENSE](LICENSE) for details.
 
 ## Release Notes
 
